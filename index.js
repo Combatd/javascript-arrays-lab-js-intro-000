@@ -30,7 +30,7 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  return kittens.concat(kittens.length-2);
+  return kittens.concat(2);
 }
 
 function removeFirstKitten() {
